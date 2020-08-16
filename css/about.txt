@@ -1,0 +1,3 @@
+this css file adjust local parts positioning, for main styling is bootstrap used
+with linking external style
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >

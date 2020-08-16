@@ -44,6 +44,17 @@
 				</ul>
 			<?php endif; ?>
 		</div>	
+
+		<div class="col-sm">
+			<h1>Output of clasic phpinfo() function</h1>
+			
+				
+					<?php 
+					   phpinfo();
+					?>
+				
+			
+		</div>	
 	 </div>	
 	</div>
 </body>
